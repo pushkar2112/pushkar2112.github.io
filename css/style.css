@@ -1196,6 +1196,10 @@ ul.slides li {
 	    letter-spacing: 10px;
 	}
 
+  .hero h1 {
+    font-size: 85px;
+    padding-top: 15px;
+  }
 
 	.hero {
 	    padding-bottom: 0;
